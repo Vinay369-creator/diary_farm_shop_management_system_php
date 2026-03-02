@@ -5,9 +5,7 @@ The Dairy Farm Management System is a web-based application developed using PHP 
 steps and requirments
 
 1.clone the project file or download the zip file
-
 2.download the xampp server to run the server
-
 3. extract the entire project
    
 4.copy the dfsms sql file and pasted it in to the xampp/hdtocs
