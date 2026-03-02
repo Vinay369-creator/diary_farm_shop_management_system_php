@@ -20,7 +20,7 @@ steps and requirments
 **NOTE** :
 
 The xampp server should not executes the new latest version
-the xampp server is should contains only the 8.0 less then or equal 
+the xampp server is should contains only the below of  8.0 version.
 the xampp server is works in the version of 7.2
 
 
